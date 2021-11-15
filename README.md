@@ -4,12 +4,7 @@ A Study On Montreal’s Bike Sharing Network, BIXI
 
 ### Abstract:
 
-Montreal, which has been experiencing a booming growth in the recent years, is a great demonstration of the urban mobility challenge: with congestion, construction, parking difficulties and weather / environmental conditions to cite a few. 
-
-To contribute combatting this challenge, the Public Bike System Company launched BIXI in May 2009, the first large-scale bike sharing network in North America at the time. With over 5 million annual rides, it is without doubt that this shared, green mobility transportation method contributes positively to the city’s development.
-
-However, despite the positive impact of this network, it can be frustrating to use. Every morning when I go to my nearest BIXI station to ride a bike to university it is empty. The story repeats when after finally finding and riding my BIXI bike to McGill, I find the station full, with no space left for my bike…
-Through this project, I want to analyze the tens of thousands trips that occur each day. I want to see how this data can be used to provide environmental and socio-economic insights, better understand the habits of Montrealers and understand how and why this phenomenon occurs. I would also like to perform some flow predictions on the network and attempt to propose a solution to overcome the issue of empty and full station, through trip recommendation models and bike station rebalancing operations. 
+Montreal, with its booming growth in recent years, is a great demonstration of the urban mobility challenge: with congestion, construction, parking difficulties and weather / environmental conditions to cite a few. To contribute combatting this challenge, BIXI, the first large-scale bike sharing network in North America at the time, was launched in May 2009. With over 5 million annual rides, it is without doubt contributing positively to the city’s development. However, with its increasing adoption, the network has become frustrating to use, with stations often being empty when you need a bike, or full when you need to return one at peak usage times. Through this project, we want to analyze the tens of thousands trips that occur each day. We want to see how this data can be used to provide environmental and socio-economic insights and better understand the habits of Montrealers to understand how this phenomenon occurs. We would also like to perform some flow and trip predictions and attempt to propose a solution to the issue of empty and full stations.
 
 
 ### Research Proposal and Progress Report:
