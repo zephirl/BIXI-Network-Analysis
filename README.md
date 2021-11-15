@@ -1,5 +1,6 @@
 # BIXI-Network-Analysis
 A Study On Montreal’s Bike Sharing Network, BIXI
+[Study in Progress]
 
 ### Abstract:
 
@@ -11,5 +12,5 @@ However, despite the positive impact of this network, it can be frustrating to u
 Through this project, I want to analyze the tens of thousands trips that occur each day. I want to see how this data can be used to provide environmental and socio-economic insights, better understand the habits of Montrealers and understand how and why this phenomenon occurs. I would also like to perform some flow predictions on the network and attempt to propose a solution to overcome the issue of empty and full station, through trip recommendation models and bike station rebalancing operations. 
 
 
-### Research Proposal:
-https://mcgill-my.sharepoint.com/:b:/g/personal/zephir_lorne_mail_mcgill_ca/Eayd5OWtX4dAiYeelHrFWEIBp6Q0RZWy4EaWZcJ6aa0uQA?e=0PfPy1 
+### Research Proposal and Progress Report:
+https://mcgill-my.sharepoint.com/:b:/g/personal/zephir_lorne_mail_mcgill_ca/EURfDXA-bwhCjqCQ3epaGswBQX0Vd0pMzGtfZm6KgpVawA?e=P4tM7v
