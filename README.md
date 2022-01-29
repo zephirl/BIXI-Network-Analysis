@@ -2,6 +2,7 @@
 A Study on montreal’s bike sharing network, BIXI, and how the Covid-19 pandemic pandemic impacted the network.
 Networkx graph creation, Use of centrality measures and community detection algorithms, Map visualizations, Litterature review.
 <br> [Study in Progress: Code has to be cleaned and converted to a proper .py format]
+<br> The paper is currently in peer review for the MSURJ journal. A copy can be found in the main folder.
 
 ### Abstract:
 
@@ -43,7 +44,7 @@ Montreal, with its booming growth, is a great demonstration of the urban mobilit
     - Number of BIXI trips vs Temperature histogram
     - Number of BIXI trips Day of the week vs Hour of the day heat-map
   - Overlaying network features on top of a map of Montreal using Kepler.gl (code will be posted on Githib before March 2022)
-    - => Interactive maps can be viewed at https://rebrand.ly/BIXI-study-web (note: it doesn’t work with Safari). 
+    - => Interactive maps can be viewed at https://rebrand.ly/BIXI-study-web (note: it doesn’t work with Safari).
     - Net-Degree, Eigenvector, and Betweenness Centrality measure heat-maps
     - Net-Degree, Eigenvector, and Betweenness Centrality measure point-maps
     - In-Out-Degree Centrality dynamic point-maps
